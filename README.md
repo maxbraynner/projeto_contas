@@ -49,18 +49,22 @@ Estes documento README tem como objetivo fornecer as informações necessárias 
 
 ### Dicas
 
-- Git
+- Git:
+
 	1. https://guides.github.com/introduction/git-handbook/
 	2. https://git-scm.com/docs/gittutorial
 
 - Introdução ao REST: 
+
     1. https://www.infoq.com/br/articles/rest-introduction/
     2. https://www.devmedia.com.br/introducao-ao-rest-ws/26964
 
 - Spring:
+
     1. https://spring.io/guides
     2. https://www.youtube.com/watch?v=QHjFVajYYHM&t=16s
 
-- Conteúdos de Java
+- Conteúdos de Java:
+
 	2. https://www.baeldung.com/
 	1. https://springframework.guru/
